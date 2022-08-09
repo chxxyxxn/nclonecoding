@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\WorkspaceN" version="1.8.0_321">
+<bootpath>
+<entry path="C:\WorkspaceN\lib\resources.jar"/>
+<entry path="C:\WorkspaceN\lib\rt.jar"/>
+<entry path="C:\WorkspaceN\lib\sunrsasign.jar"/>
+<entry path="C:\WorkspaceN\lib\jsse.jar"/>
+<entry path="C:\WorkspaceN\lib\jce.jar"/>
+<entry path="C:\WorkspaceN\lib\charsets.jar"/>
+<entry path="C:\WorkspaceN\lib\jfr.jar"/>
+<entry path="C:\WorkspaceN\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\WorkspaceN\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\WorkspaceN\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
